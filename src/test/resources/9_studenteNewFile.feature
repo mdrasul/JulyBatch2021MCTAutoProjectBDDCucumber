@@ -4,3 +4,4 @@ Feature: sample by Student 3
     Given I
     When I
     Then I
+    But I
