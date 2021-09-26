@@ -1,4 +1,4 @@
-Feature: Login Mechanism Test scearios
+Feature: Login Mechanism Test scearios for MCT
 
   Background: 
     Given I Open my computers "chrome" browser
